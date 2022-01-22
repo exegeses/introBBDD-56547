@@ -9,7 +9,7 @@ CREATE TABLE destinos
     destAsientos tinyint not null,
     destDisponibles tinyint not null,
     destActivo boolean not null DEFAULT 1
-)
+);
 
 --- inserción de datos
 

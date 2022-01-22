@@ -23,7 +23,7 @@ INSERT INTO regiones
         ( 'América Central' );
 
 -- variante B
---INSERT INTO regiones
+-- INSERT INTO regiones
 --     VALUE
 --        ( vCampo1, vCampo2, vCampox )
 

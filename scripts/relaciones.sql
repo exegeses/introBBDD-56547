@@ -1,8 +1,8 @@
 -- Relaciones entre tablas
 ------------------------------
 
--- tabla relation
--- se iguala el campo (columna) en com´´un
+-- table relation
+-- se iguala el campo (columna) en común
 
 SELECT destNombre, destPrecio, regNombre
     FROM destinos, regiones
